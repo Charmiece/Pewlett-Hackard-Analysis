@@ -14,6 +14,7 @@ This table showed that there are a little less that 58k employees with senior ti
 
 ### Mentor Candidates
 The following table was created to explore the mentor candidates. This tables pulls anyone that was born in the year of 1965.
+
 <img width="726" alt="Screen Shot 2022-04-14 at 7 04 27 PM" src="https://user-images.githubusercontent.com/93438483/163491279-a54d7c43-889c-4ae8-abff-36281b7f388a.png">
 
 ## Summary
